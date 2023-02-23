@@ -15,4 +15,10 @@ I'm a **Tech 💻 and Visual Enthusiast :art: 😃** from Surakarta, Indonesia. 
 
 **Tools**
 
-<img title="Figma" alt="Figma" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/figma-3521426-2944870.png?f=avif&w=256"> <img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"> <img title="git" alt="git" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/git-17-1175218.png?f=avif&w=256"> <img title="postman" alt="postman" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/postman-3521648-2945092.png?f=avif&w=256"> 
+<img title="Figma" alt="Figma" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/figma-3521426-2944870.png?f=avif&w=256"> <img title="VS Code" alt="VS Code" width="40px" src="https://img.icons8.com/fluent/48/000000/visual-studio-code-2019.png"> <img title="git" alt="git" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/git-17-1175218.png?f=avif&w=256"> <img title="postman" alt="postman" width="40px" src="https://cdn.iconscout.com/icon/free/png-512/postman-3521648-2945092.png?f=avif&w=256"> <br/><br/>
+
+## Let's Connect :handshake:
+
+<a href="https://www.linkedin.com/in/deradhista/"><img src="https://cdn2.iconfinder.com/data/icons/social-media-2285/512/1_Linkedin_unofficial_colored_svg-128.png" width="40"></a> <a href="deradhista@gmail.com"><img src="https://cdn.iconscout.com/icon/free/png-512/gmail-2981844-2476484.png?f=avif&w=256" width="40"></a> <a href="https://api.whatsapp.com/send/?phone=089678657527&text&type=phone_number&app_absent=0"><img src="https://cdn.iconscout.com/icon/free/png-512/whatsapp-43-189795.png?f=avif&w=256" width="40"></a>
+
+
